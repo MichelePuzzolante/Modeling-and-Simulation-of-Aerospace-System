@@ -2,7 +2,7 @@
 
 A collection of MATLAB, Modelica, and Simulink implementations and written reports for the **Modeling & Simulation of Aerospace Systems** course at [Politecnico di Milano](https://www.polimi.it), A.Y. 2024/25.
 
-> **Instructors:** Prof. Mauro Massari & Prof. Franco Bernelli-Zazzera &nbsp;|&nbsp; **Teaching Assistants:** course staff
+> **Instructors:** Prof. Francesco Topputo & Prof. Alessandro Morseli &nbsp;|&nbsp; **Teaching Assistants:** course staff
 
 ---
 
@@ -24,16 +24,15 @@ Both assignments include a MATLAB implementation and a written report.
 ```
 Modeling-and-Simulation-of-Aerospace-Systems/
 ├── Simulation/
-│   ├── pareschi252142_Assign1.m      # Six-exercise simulation assignment
-│   └── pareschi252142_Assign1.pdf    # Written report for Assignment 1
+│   ├── Puzzolante225449_Assign1.m                          # Six-exercise simulation assignment
+│   └── Puzzolante225449_Assign1.pdf                        # Written report for Assignment 1
+|
 └── Modeling/
-    ├── Pareschi252142_Assign2_Ex1.m  # Causal thermal control simulation (MATLAB)
-    ├── pareschi252142_Assign2_ex1.mo # Acausal thermal model (Modelica/Dymola)
-    ├── Pareschi252142_Assign2_Ex2.m  # Causal propellant tank model (MATLAB)
-    ├── Ass2_Ex2_Part2_sim.slx        # Simulink model for Exercise 2 Part 2
-    ├── DymolaResults.csv             # Simulation results exported from Dymola
-    ├── exportedVariables.csv         # Exported variables for post-processing
-    └── MSAS____Assignment_2__Modeling.pdf  # Written report for Assignment 2
+    ├── Puzzolante225449_Assign2_Ex1.m                      # Causal thermal control simulation (MATLAB)
+    ├── Puzzolante225449_Assign2_Ex1.mo                     # Acausal thermal model (Modelica/Dymola)
+    ├── Puzzolante225449_Assign2_Ex2.m                      # Causal propellant tank model (MATLAB)
+    ├── Puzzolante10656823_Assign2_Ex2_Simscape.slx         # Simulink model for Exercise 2 Part 2
+    └── Puzzolante225449_Assign2.pdf                        # Written report for Assignment 2
 ```
 
 ---
